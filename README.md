@@ -14,5 +14,5 @@ Como usar essa ferramenta?
 
 Tecnologias utilizadas:
 
-Frontend: HTML, CSS e um pouquinho de JavaScript para deixar tudo bonito e fácil de usar.
+Frontend: HTML, CSS e um muito JavaScript para deixar tudo bonito e fácil de usar.
 Backend: Uma mistura poderosa de linguagens e frameworks para garantir que todas as informações cheguem até você rapidinho.
